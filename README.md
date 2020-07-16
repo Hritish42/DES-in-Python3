@@ -1,15 +1,20 @@
-# Foobar
+# DES PYTHON3
 
 Encode a message using DES when encrypted. Try the following
 experiments and note how they change the output:
+
 a) Change one character at the end of the message. How much of
 the encoded message changes?
+
 b) Change one character at the beginning of the message. How
 much of the encoded message changes?
+
 c) Delete one character at the end of the message. How much of the
 encoded message changes?
+
 d) Change one character in the key. How much of the encoded
 message changes?
+
 e) Decrypt a message using a key with one character changed.
 Does it look anything like the original?
 
